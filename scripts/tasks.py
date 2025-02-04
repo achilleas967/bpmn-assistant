@@ -1,0 +1,9 @@
+"""LLM-powered assistant for creating, editing, and interpretin"""
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
