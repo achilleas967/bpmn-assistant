@@ -5,3 +5,4 @@ description = "LLM-powered assistant for creating, editing, and interpreting bus
 requires-python = ">=3.10"
 # drop an unused branch
 # clarify the control flow
+# handle the edge case from the last release
